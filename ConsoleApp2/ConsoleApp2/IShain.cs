@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal interface Shain
+    internal interface IShain
     {
         public void standup();
     }

@@ -4,7 +4,7 @@ Random rdm = new System.Random();
 int r = rdm.Next(0, 3);
 Console.WriteLine("r=" + r);
 
-Shain shain;
+IShain shain;
 
 if (r == 0)
 {

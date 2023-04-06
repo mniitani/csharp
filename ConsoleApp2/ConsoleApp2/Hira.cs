@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class Hira : Shain
+    internal class Hira : IShain
     {
         public void standup()
         {
