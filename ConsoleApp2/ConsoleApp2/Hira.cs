@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         public void standup()
         {
-            Console.WriteLine("平社員が立ちました。");
+            Console.WriteLine("平社員がしゃきっと立ちました。");
         }
     }
 }

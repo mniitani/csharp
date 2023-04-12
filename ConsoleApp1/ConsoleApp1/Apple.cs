@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class Bucho : IShain
+    internal class Apple : Fruit
     {
-        public void standup()
+
+        public override void peel()
         {
-            Console.WriteLine("部長が偉そうに立ちました。");
+            Console.WriteLine("リンゴの皮をむきます");
         }
     }
 }
