@@ -1,0 +1,11 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/28547dc1-2556-4002-ad68-9c280975d685.vsidx
+/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/df8784ca-d528-4696-be65-15aa174bd963.vsidx
+/.gitignore
+/.gitignore
+/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/0e98c147-ef8c-4815-9aad-f337bb88f314.vsidx
+/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/7dd1b85c-f9cb-44f8-b6ca-d3e0af0be185.vsidx
+*.vsidx
