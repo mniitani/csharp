@@ -1,4 +1,4 @@
-﻿using ConsoleApp1;
+﻿using ConsoleApp2;
 
 Random rdm = new System.Random();
 int r = rdm.Next(0, 3);
